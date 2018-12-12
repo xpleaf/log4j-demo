@@ -1,0 +1,3 @@
+2018-12-12 16:55:19 [main] [cn.xpleaf.log.LogTest] [INFO] - hello, 日志-info信息
+2018-12-12 16:55:19 [main] [cn.xpleaf.log.LogTest] [WARN] - hello, 日志-warn信息
+2018-12-12 16:55:19 [main] [cn.xpleaf.log.LogTest] [ERROR] - hello, 日志-error信息
